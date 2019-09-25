@@ -1,6 +1,7 @@
 body{
     margin: 0;
     padding: 0;
+    font-family: 'Ribeye Marrow', cursive;
 }
 .wrapper{
     width: 80%;
@@ -52,6 +53,21 @@ hr
 p{
     padding-bottom: 40px
 }
+.pic{
+    display: flex
+
+}
+img{
+    width: 33.33%
+}
+img:hover{
+    transform: scale(1.1);
+    transition:transform .7s
+}
+
+
+
+
     
         
     
