@@ -1,0 +1,58 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.wrapper{
+    width: 80%;
+    margin: auto;  
+}
+.logo{
+    float: left;
+    color: aliceblue
+}
+.menu-ul{
+    float: right
+}
+.menu-li {
+    float:left;
+    padding:0 17px;
+    list-style:none
+}
+a{
+    text-decoration: none
+}
+.menu-li a{
+    color: aliceblue;
+    font-size: 15px;
+
+}
+.imgback{
+    background-image:url(https://blackrockdigital.github.io/startbootstrap-creative/img/bg-masthead.jpg);
+}
+    .text{
+    text-align: center;
+    padding: 230px 0; 
+}
+hr
+{
+    border: 2px solid #f4623f;
+    color: #f4623f;
+    width: 60px  
+}
+.Find{
+    background-color: #f4623f;
+    padding:20px 30px;
+    border-radius: 50px;
+    color: aliceblue;
+    
+}
+.Find:hover{
+    background-color: brown
+}
+p{
+    padding-bottom: 40px
+}
+    
+        
+    
+
